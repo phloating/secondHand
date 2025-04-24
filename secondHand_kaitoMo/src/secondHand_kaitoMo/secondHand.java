@@ -6,6 +6,7 @@ public class secondHand {
 		// TODO Auto-generated method stubs
 		System.out.println("testing");
 		System.out.println("testing number two");
+		System.out.println("testing number three");
 
 	}
 
